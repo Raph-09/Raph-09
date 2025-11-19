@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Raphael
+# 👋 HI, I'M RAPHAEL
 
 A versatile Data Scientist with three years’ experience analyzing data for insights, building predictive models, and deploying these models into applications to solve business and research problems. My work spans data analysis, data science, machine learning, modern AI, and MLOps, allowing me to bridge the gap between raw data and intelligent, production-ready systems.
 
