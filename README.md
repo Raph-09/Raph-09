@@ -6,10 +6,11 @@ Hi, I'm Raphael (Raph)! I am passionate about Artificial Intelligence, Machine L
 
 # 🌐 Socials
 
-* **LinkedIn:** [Your LinkedIn URL]
-* **Twitter/X:** [Your X URL]
-* **Portfolio Website:** [Your Website]
-* **Email:** [your@email.com](mailto:your@email.com)
+<p align="left">
+<a href="https://linkedin.com/in/https://github.com/raph-09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/raph-09" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/abasiama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abasiama" height="30" width="40" /></a>
+<a href="https://medium.com/@akpan1653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akpan1653" height="30" width="40" /></a>
+</p>
 
 ---
 
