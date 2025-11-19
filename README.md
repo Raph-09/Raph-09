@@ -1,37 +1,105 @@
 # 👋 About Me
 
-I am a versatile data scientist with three years' experience analyzing data for insights, building predictive models, and deploying these models into applications to solve business and research problems.
+Hi, I’m Raphael — a versatile Data Scientist with three years’ experience analyzing data for insights, building predictive models, and deploying these models into applications to solve business and research problems. My work spans data analysis, data science, machine learning, modern AI, and MLOps, allowing me to bridge the gap between raw data and intelligent, production-ready systems.
+
+I enjoy exploring datasets, uncovering meaningful patterns, and transforming insights into actionable strategies. Beyond analysis, I specialize in building robust predictive models, applying Explainable AI techniques like SHAP and LIME, developing Generative AI (GenAI) solutions, and creating end-to-end AI applications using tools such as Python, Flask, Docker, Git, XGBoost, LangChain, Azure Container Registries, Azure Container Apps, GitHub Actions, DVC, and MLflow.
+
+I’ve worked on projects involving predictive maintenance, customer response prediction, adversarial machine learning for intrusion detection, RAG-based AI applications, and AI-powered document processing systems.
+
+My goal is to create AI systems that are accurate, transparent, and impactful, empowering organizations to make smarter decisions through data-driven intelligence.
 
 ---
 
-# 🌐 Contacts and Socials
+# 🛠️ SKILLS IN CATEGORIES 
+## DATA ANALYSIS SKILLS
+-MYSQL    
+-POWERBI  
+-TABLEAU <br/>
+-PANDA  <br/>
+-MATPLOTLIB <br/> 
+-SEABORN  <br/>
+-PLOTLY
+## DATA SCIENCE SKILLS 
+-SCIKIT-LEARN <br/>
+-JUPYTER NOTEBOOK <br/>
+-GOOGLE COLAB <br/>
+-XGBOOST <br/>
+-KERAS/TENSORFLOW <br/>
+-MACHINE LEARNING <br/>
+-DEEP LEARNING <br/>
+-NATURAL LANGUAGE PROCESSING (NLP) <br/>
 
-<p align="left">
-  <a href="https://linkedin.com/in/https://github.com/raph-09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+## MACHINE LEARNING ENGINEERING/MLOPS SKILLS 
+-FLASK <br/>
+-STREAMLIT(for quick prototyping) <br/>
+-MODULAR/OBJECT ORIENTED PROGRAMMING <br/>
+-MLFLOW (for experiement tracking and registration)  <br/>
+-DATA VERSION CONTROL (DVC) for versioning data and model  <br/>
+-DAGSHUB (Platform similar to github for hosting data, code and model versions) <br/>
+-EvidentlyAI (for model monitoring) <br/>
+-DOCKER <br/>
+-AZURE CONTAINER REGISTRY (ACR) <br/>
+-AZURE CONTAINER APP (ACA) <br/>
 
-  <!-- Email icon -->
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img align="center" src="https://t4.ftcdn.net/jpg/00/98/26/11/240_F_98261159_Po5JS7ds82XaePJIsG1MiEtHRzOeUPNj.jpg" 
-         alt="Email" height="30" width="40" />
-  </a>
+## GENERATIVEAI AND RAG
+-LLM API: AZUREOPENAI, GROK,HUGGINGFACE, GEMINI API  <br/>
+-EMBEDDINGS: HUGGINGFACE AND GEMINI EMBEDDINGS  <br/>
+-VECTOR DATABASE: ASTRAL DATABASEA ND FAISS VECTOR STORE  <br/>
+-ONLINE SEARCH TOOL: TAVILY SEARCH TOOL <br/>
+-CREWAI (for agent development) <br/>
 
-  <a href="https://medium.com/@akpan1653" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-</p>
+
+----I AM STILL STUDYING THIS
+
+
 
 
 
 
 ---
 
-# 🛠️ Tech Stack
+# 💼 EXPERIENCE
+
+## Data Scientist
+
+## BIZSTEK GLOBAL · Full-time
+
+### Oct 2022 - Sep 2025 · 3 yrs
+
+### Lagos State, Nigeria · Remote
+
+### Key Responsibilities & Contributions:
+
+1. Data Collection & Preparation: Designed and implemented data ingestion and scraping pipelines to gather high-quality datasets from diverse sources.
+2. Data Cleaning & Feature Engineering:** Performed preprocessing, handling missing data, encoding categorical variables, and engineering domain-specific features to enhance model accuracy.
+3. Exploratory Data Analysis (EDA):  Conducted in-depth EDA and visualization to identify hidden patterns, correlations, and actionable insights using Python (Pandas, Matplotlib, Seaborn).
+4. Model Development & Evaluation:   Experimented with various machine learning algorithms (Logistic Regression, Random Forest, XGBoost, etc.) to select optimal models based on accuracy, precision, recall, and F1 score.
+5. Model Deployment:  Deployed best-performing models into production environments using Flask, Docker, and Azure, ensuring scalability and seamless integration with business systems.
+6. Performance Monitoring:  Applied  EvidentlyAI for monitoring data drift and model performance, maintaining reliability over time.
+7 Cross-functional Collaboration: Worked closely with developers and business stakeholders to translate analytical findings into practical solutions that align with strategic objectives.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Data Science Intern
+
+## iNeuron.ai · Full-time
+
+### May 2021 - Jan 2022 · 9 mos
+
+### India · Remote
+
+### Key Responsibilities & Contributions:
+
+i. Recommender System Development: Designed and developed a hyper-personalized recommendation engine for an online store to improve customer engagement and sales conversion rates.
+
+ii. Data Exploration & Wrangling: Performed extensive Exploratory Data Analysis (EDA) and data preprocessing, ensuring data consistency and quality across multiple datasets.
+
+iii. Feature Engineering: Engineered new customer-related features and selected the most impactful variables for model training, significantly boosting performance.
+
+iv. Algorithm Experimentation: Evaluated different recommender system algorithms, including collaborative and content-based filtering, using libraries such as surprise and scikit-learn.
+
+v.  Simulation & Model Validation: Implemented simulations to test recommendation strategies under varying user behaviors and dataset dynamics.
+
+vi. Research & Model Optimization: Studied and implemented machine learning best practices to fine-tune models, reduce overfitting, and improve recommendation accuracy.
 
 
 ---
