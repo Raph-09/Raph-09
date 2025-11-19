@@ -1,6 +1,6 @@
-# 👋 About Me
+# 👋 Hi, I’m Raphael
 
-Hi, I’m Raphael — a versatile Data Scientist with three years’ experience analyzing data for insights, building predictive models, and deploying these models into applications to solve business and research problems. My work spans data analysis, data science, machine learning, modern AI, and MLOps, allowing me to bridge the gap between raw data and intelligent, production-ready systems.
+A versatile Data Scientist with three years’ experience analyzing data for insights, building predictive models, and deploying these models into applications to solve business and research problems. My work spans data analysis, data science, machine learning, modern AI, and MLOps, allowing me to bridge the gap between raw data and intelligent, production-ready systems.
 
 I enjoy exploring datasets, uncovering meaningful patterns, and transforming insights into actionable strategies. Beyond analysis, I specialize in building robust predictive models, applying Explainable AI techniques like SHAP and LIME, developing Generative AI (GenAI) solutions, and creating end-to-end AI applications using tools such as Python, Flask, Docker, Git, XGBoost, LangChain, Azure Container Registries, Azure Container Apps, GitHub Actions, DVC, and MLflow.
 
