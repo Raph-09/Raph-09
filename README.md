@@ -124,7 +124,7 @@ Uses AI4I 2020 dataset, SHAP & LIME for interpretability, deployed via Flask.
 
 Boosting algorithms infused with adversarial training to combat evasion attacks.
 
-* 🔗 Repo: [Link to GitHub Repository]
+* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/dversarial_Machine_learning_Framework_for_Enhancing_the_Robustness_of_IDS_against_Evasion_Attacks./blob/main/Adversarial_Machine_learning_Framework_for_Enhancing_the_Robustness_of_IDS_against_Evasion_Attacks.ipynb)]
 
 ### 4. **Document Processing App using Gemini**
 
