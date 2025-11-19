@@ -112,13 +112,13 @@ Here are some of the key projects I’ve worked on:
 
 A retrieval-augmented generation system integrated with Tavily web search and Groq LLM, containerized with Docker.
 
-* 🔗 Repo: [Link to GitHub Repository]
+* 🔗 Repo: [https://github.com/Raph-09/RAG-with-web_search-functionality]
 
 ### 2. **Explainable Predictive Maintenance Web App**
 
 Uses AI4I 2020 dataset, SHAP & LIME for interpretability, deployed via Flask.
 
-* 🔗 Repo: [Link to GitHub Repository]
+* 🔗 Repo: [https://github.com/Raph-09/Predictive-Maintenance-Application]
 
 ### 3. **Adversarial Machine Learning for Intrusion Detection**
 
@@ -130,15 +130,9 @@ Boosting algorithms infused with adversarial training to combat evasion attacks.
 
 AI-powered document understanding system using Google Gemini.
 
-* 🔗 Repo: [Link to GitHub Repository]
+* 🔗 Repo: [https://github.com/Raph-09/RepurposeAI-RAG-Application]
 
-### 5. **Superstore Membership Purchase Prediction**
 
-A classification and feature importance analysis project for customer conversion.
-
-* 🔗 Repo: [Link to GitHub Repository]
-
----
 
 # 📚 Research Contributions
 
@@ -147,5 +141,3 @@ A classification and feature importance analysis project for customer conversion
 * **LLM-Based Document Processing:** Leveraged Google Gemini for document understanding tasks.
 
 ---
-
-Feel free to connect or collaborate! 🚀
