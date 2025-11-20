@@ -192,8 +192,8 @@ With TrendyAI, users can input any technology-related topic, and the application
 * 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/TrendyAI-LLM-Agents-Application)]
 * 
 
-### 10. **News-Authenticity-Classification-Using-The-Source
-Public**
+### 10. News-Authenticity-Classification-Using-The-Source
+
 
 
 ![news](https://github.com/user-attachments/assets/669b788f-eb51-4b64-8740-a26ba27ff49c)
