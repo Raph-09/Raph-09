@@ -85,16 +85,11 @@ A versatile Data Scientist with three years’ experience analyzing data for ins
 ### Key Responsibilities & Contributions:
 
 1. Part of a team that designed and developed a hyper-personalized recommendation engine for an online store to improve customer engagement and sales conversion rates.
-
 2. Performed extensive Exploratory Data Analysis (EDA) and data preprocessing, ensuring data consistency and quality across multiple datasets.
-
 3. Engineered new customer-related features and selected the most impactful variables for model training, significantly boosting performance.
-
 4. Evaluated different recommender system algorithms, including collaborative and content-based filtering, using libraries such as surprise and scikit-learn.
-
 5. Implemented simulations to test recommendation strategies under varying user behaviors and dataset dynamics.
-
-6. Research & Model Optimization: Studied and implemented machine learning best practices to fine-tune models, reduce overfitting, and improve recommendation accuracy.
+6. Studied and implemented machine learning best practices to fine-tune models, reduce overfitting, and improve recommendation accuracy.
 
 
 ---
