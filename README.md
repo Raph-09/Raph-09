@@ -190,6 +190,17 @@ TrendyAI is an agentic application that leverages artificial intelligence to ide
 With TrendyAI, users can input any technology-related topic, and the application will process the request to deliver a concise, well-structured report on the latest developments and emerging trends associated with that topic. This functionality empowers tech enthusiasts, researchers, and professionals to stay up-to-date with rapidly evolving areas in technology, make informed decisions, and discover new opportunities. By combining advanced AI capabilities with an accessible interface, TrendyAI provides a seamless experience for tracking and understanding tech trends efficiently.
 
 * 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/TrendyAI-LLM-Agents-Application)]
+* 
+
+### 10. **News-Authenticity-Classification-Using-The-Source
+Public**
+
+
+![news](https://github.com/user-attachments/assets/669b788f-eb51-4b64-8740-a26ba27ff49c)
+
+This project aimed to predict the authenticity of news articles using the source of the articles. Basic data cleaning was performed on the dataset and exploratory data analysis techniques were used to explore the data for insights. Various language models, such as unigram, bigram, and trigram, were used to plot word clouds of the most common words in the news articles. A new feature called 'source' was created by combining the 'site_url' and 'text without stopwords' together, and this feature was preprocessed by performing tokenization, stemming, and punctuation removal. The stemmed text was converted into vectors using the TFIDF (Term Frequency Inverse Document Frequency) vectorizer. The vectors were passed into machine learning models: Adaboost, Naive Bayes, and Passive Aggressive Algorithm to make predictions, but there were many false positives and false negatives, indicating an imbalanced dataset. The imbalanced target variable was handled using oversampling, and the performance of the models was improved. Adaboost recorded a baseline accuracy of 85%, Naive Bayes 86%, and Passive Aggressive Algorithm 91%. The performance of the Passive Aggressive classifier and Adaboost model was improved after hyperparameter optimization, but Naive Bayes remained the same. The final model used for predicting the test dataset was the Passive Aggressive Algorithm. Data preprocessing and hyperparameter optimization were crucial in improving the accuracy of these models. Other models such as LSTM and BERT could also be used, but due to time constraints, these models were not used in this study
+
+* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/News-Authenticity-Classification-Using-The-Source?tab=readme-ov-file)]
   
 # 📚 Research Contributions
 
