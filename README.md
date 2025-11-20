@@ -151,13 +151,21 @@ The app uses Streamlit for an easy-to-use web interface, while Google Generative
 * 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/RepurposeAI-RAG-Application)]
 
   
-### 6. **RepurposeAI  App using Gemini api**
+### 6. **Phishing Websites Monitoring System (with mlops)**
 
-Repurpose AI is an application that transforms long-form blog content into platform-ready social media posts using artificial intelligence. It helps users quickly generate tailored content for platforms like LinkedIn, Instagram, and Facebook with minimal manual editing.
+1. Introduction
+The Phishing Websites Monitoring System is an AI-driven application designed to detect and classify phishing websites by leveraging machine learning techniques. The project implements a full ML lifecycle pipeline, covering data ingestion, preprocessing, transformation, model training, evaluation, deployment, and monitoring.
 
-The app uses Streamlit for an easy-to-use web interface, while Google Generative AI handles text generation and embeddings to ensure the posts stay relevant to the original content. To support fast and efficient content retrieval, Repurpose AI uses FAISS as its vector database. Overall, it simplifies content repurposing and helps creators maintain a consistent online presence.
+This system enhances network security by identifying potential phishing threats using a robust model training and tracking infrastructure, supported by MongoDB, Flask, Docker, MLflow, and DagsHub.
 
-* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/RepurposeAI-RAG-Application)]
+2. Objectives
+Automate the process of ingesting and processing phishing-related data.
+Build and validate robust machine learning models for phishing website detection.
+Enable real-time monitoring of model performance.
+Provide a web-based interface for batch predictions.
+Ensure scalability, reproducibility, and traceability using Docker, MLflow, and GitHub.
+
+* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/Phishing-Webites-Monitoring-System-with-MLOps)]
 
 
 # 📚 Research Contributions
