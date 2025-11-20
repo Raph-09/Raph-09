@@ -132,22 +132,32 @@ This makes the system suitable for production-ready environments, research use, 
 
 ### 3. **Predictive Maintenance with MLOPS**
 
-Uses AI4I 2020 dataset, SHAP & LIME for interpretability, deployed via Flask.
+The purpose of this application is to build a **predictive maintenance system** capable of forecasting machine failures before they occur. It implements a full **MLOps pipeline** to ensure that data processing, model development, deployment, monitoring, and automation are performed in a scalable, reproducible, and production-ready manner. The system supports continuous integration, versioning, containerization, cloud deployment, and real-time monitoring of model performance.
 
-* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/Predictive-Maintenance-Application)]
+* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/Predictive-Maintenance-with-MLOps)]
 
-### 3. **Adversarial Machine Learning for Intrusion Detection**
+### 4. **Adversarial Machine Learning for Intrusion Detection**
 
-Boosting algorithms infused with adversarial training to combat evasion attacks.
+This experiment was performed to determine the effectiveness of the proposed defence technique against evasion attacks. The IDS model was built using the CICIDS 2017 dataset found on open-source platforms like Kaggle.com. This dataset is chosen because it is used extensively by several researchers for conducting similar research (Usama et al. 2017; Haroon et al. 2022). The dataset was collected using the Python programming language and downloaded into a notebook environment for processing and analysis. After the dataset was prepared, it was used to train a decision tree algorithm to develop an IDS for detecting network intrusion. Three Different attacks were used to test the vulnerability and robustness of the trained decision tree model, of which the performance deteriorated greatly. The proposed defence of adversarial training with an ensemble classifier was put to the test by training the Adaboost, an ensembled technique, on the generated perturbated examples, and the model recorded improved performance on both seen and unseen perturbations.
 
-* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/dversarial_Machine_learning_Framework_for_Enhancing_the_Robustness_of_IDS_against_Evasion_Attacks./blob/main/Adversarial_Machine_learning_Framework_for_Enhancing_the_Robustness_of_IDS_against_Evasion_Attacks.ipynb)]
+* 🔗 Repo: [[Link to Colab Notebook]([https://github.com/Raph-09/dversarial_Machine_learning_Framework_for_Enhancing_the_Robustness_of_IDS_against_Evasion_Attacks./blob/main/Adversarial_Machine_learning_Framework_for_Enhancing_the_Robustness_of_IDS_against_Evasion_Attacks.ipynb](https://colab.research.google.com/drive/1XKRZLEHR6Mrs0EzDERGVBJdrmnhI3nQg?usp=sharing))]
 
-### 4. **RepurposeAI  App using Gemini api**
+### 5. **RepurposeAI  App using Gemini api**
 
-AI-powered content repuposing tool using Google Gemini.
+Repurpose AI is an application that transforms long-form blog content into platform-ready social media posts using artificial intelligence. It helps users quickly generate tailored content for platforms like LinkedIn, Instagram, and Facebook with minimal manual editing.
+
+The app uses Streamlit for an easy-to-use web interface, while Google Generative AI handles text generation and embeddings to ensure the posts stay relevant to the original content. To support fast and efficient content retrieval, Repurpose AI uses FAISS as its vector database. Overall, it simplifies content repurposing and helps creators maintain a consistent online presence.
 
 * 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/RepurposeAI-RAG-Application)]
 
+  
+### 6. **RepurposeAI  App using Gemini api**
+
+Repurpose AI is an application that transforms long-form blog content into platform-ready social media posts using artificial intelligence. It helps users quickly generate tailored content for platforms like LinkedIn, Instagram, and Facebook with minimal manual editing.
+
+The app uses Streamlit for an easy-to-use web interface, while Google Generative AI handles text generation and embeddings to ensure the posts stay relevant to the original content. To support fast and efficient content retrieval, Repurpose AI uses FAISS as its vector database. Overall, it simplifies content repurposing and helps creators maintain a consistent online presence.
+
+* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/RepurposeAI-RAG-Application)]
 
 
 # 📚 Research Contributions
