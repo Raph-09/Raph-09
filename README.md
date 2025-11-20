@@ -5,43 +5,44 @@ A versatile Data Scientist with three years’ experience analyzing data for ins
 
 ---
 
-# 🛠️ SKILLS IN CATEGORIES 
-## DATA ANALYSIS SKILLS
--MYSQL    
--POWERBI  
--TABLEAU <br/>
--PANDA  <br/>
--MATPLOTLIB <br/> 
--SEABORN  <br/>
--PLOTLY
-## DATA SCIENCE SKILLS 
--SCIKIT-LEARN <br/>
--JUPYTER NOTEBOOK <br/>
--GOOGLE COLAB <br/>
--XGBOOST <br/>
--KERAS/TENSORFLOW <br/>
--MACHINE LEARNING <br/>
--DEEP LEARNING <br/>
--NATURAL LANGUAGE PROCESSING (NLP) <br/>
+# 🛠️ TECHNICAL SKILLS BY CATEGORY
+## 📊 Data Analysis Skills
+- 🗄️ **MySQL**  
+- 📊 **Power BI**  
+- 📈 **Tableau**  
+- 🐼 **Pandas**  
+- 📉 **Matplotlib**  
+- 🌊 **Seaborn**  
+- 📌 **Plotly**
+## 🧠 Data Science Skills
+- 🤖 **Scikit-Learn**  
+- 📓 **Jupyter Notebook**  
+- ☁️ **Google Colab**  
+- ⚡ **XGBoost**  
+- 🧩 **Keras / TensorFlow**  
+- 🏗️ **Machine Learning**  
+- 🧠 **Deep Learning**  
+- ✍️ **Natural Language Processing (NLP)**  
 
-## MACHINE LEARNING ENGINEERING/MLOPS SKILLS 
--FLASK <br/>
--STREAMLIT(for quick prototyping) <br/>
--MODULAR/OBJECT ORIENTED PROGRAMMING <br/>
--MLFLOW (for experiement tracking and registration)  <br/>
--DATA VERSION CONTROL (DVC) for versioning data and model  <br/>
--DAGSHUB (Platform similar to github for hosting data, code and model versions) <br/>
--EvidentlyAI (for model monitoring) <br/>
--DOCKER <br/>
--AZURE CONTAINER REGISTRY (ACR) <br/>
--AZURE CONTAINER APP (ACA) <br/>
+## ⚙️ Machine Learning Engineering / MLOps Skills
+- 🌐 **Flask**  
+- 🚀 **Streamlit** (for quick prototyping)  
+- 🛠️ **Modular / Object-Oriented Programming (OOP)**  
+- 📊 **MLflow** (for experiment tracking & model registry)  
+- 📦 **DVC** (Data Version Control for dataset & model versioning)  
+- 📁 **DagsHub** (platform for hosting code, data, and model versions)  
+- 👀 **EvidentlyAI** (for model monitoring)  
+- 🐳 **Docker**  
+- ☁️ **Azure Container Registry (ACR)**  
+- 📦 **Azure Container App (ACA)**  
 
-## GENERATIVEAI AND RAG
--LLM API: AZUREOPENAI, GROK,HUGGINGFACE, GEMINI API  <br/>
--EMBEDDINGS: HUGGINGFACE AND GEMINI EMBEDDINGS  <br/>
--VECTOR DATABASE: ASTRAL DATABASEA ND FAISS VECTOR STORE  <br/>
--ONLINE SEARCH TOOL: TAVILY SEARCH TOOL <br/>
--CREWAI (for agent development) <br/>
+## ✨ Generative AI & RAG
+- 🤖 **LLM APIs:** Azure OpenAI, Grok, HuggingFace, Gemini API  
+- 🧠 **Embeddings:** HuggingFace & Gemini Embeddings  
+- 📚 **Vector Databases:** Astral Database & FAISS Vector Store  
+- 🔍 **Online Search Tool:** Tavily Search Tool  
+- 🛠️ **CrewAI** (for agent development)
+
 
 
 ----I AM STILL STUDYING THIS
