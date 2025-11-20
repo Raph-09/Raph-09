@@ -84,17 +84,17 @@ A versatile Data Scientist with three years’ experience analyzing data for ins
 
 ### Key Responsibilities & Contributions:
 
-i. Recommender System Development: Designed and developed a hyper-personalized recommendation engine for an online store to improve customer engagement and sales conversion rates.
+1.Part of a team that designed and developed a hyper-personalized recommendation engine for an online store to improve customer engagement and sales conversion rates.
 
-ii. Data Exploration & Wrangling: Performed extensive Exploratory Data Analysis (EDA) and data preprocessing, ensuring data consistency and quality across multiple datasets.
+2. Performed extensive Exploratory Data Analysis (EDA) and data preprocessing, ensuring data consistency and quality across multiple datasets.
 
-iii. Feature Engineering: Engineered new customer-related features and selected the most impactful variables for model training, significantly boosting performance.
+3. Engineered new customer-related features and selected the most impactful variables for model training, significantly boosting performance.
 
-iv. Algorithm Experimentation: Evaluated different recommender system algorithms, including collaborative and content-based filtering, using libraries such as surprise and scikit-learn.
+4. Evaluated different recommender system algorithms, including collaborative and content-based filtering, using libraries such as surprise and scikit-learn.
 
-v.  Simulation & Model Validation: Implemented simulations to test recommendation strategies under varying user behaviors and dataset dynamics.
+5. Implemented simulations to test recommendation strategies under varying user behaviors and dataset dynamics.
 
-vi. Research & Model Optimization: Studied and implemented machine learning best practices to fine-tune models, reduce overfitting, and improve recommendation accuracy.
+6. Research & Model Optimization: Studied and implemented machine learning best practices to fine-tune models, reduce overfitting, and improve recommendation accuracy.
 
 
 ---
