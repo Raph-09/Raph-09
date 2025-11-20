@@ -102,13 +102,35 @@ vi. Research & Model Optimization: Studied and implemented machine learning best
 # 🚀 Projects
 
 
-### 1. **RAG with Web Search Functionality**
+### 1. **AMAZON PRODUCT RECOMMENDER CHATBOT** <br/>
+The Amazon Chatbot is an AI-powered e-commerce assistant designed to answer product-related queries using a Retrieval-Augmented Generation (RAG) approach. It leverages Amazon product reviews and titles to provide contextually relevant, concise, and helpful responses to user queries.
+
+The system integrates LangChain, HuggingFace embeddings, AstraDB vector store, and Groq LLM, with a Flask-based web interface. It is containerized with Docker and supports continuous integration/deployment via GitHub Actions and DockerHub.
 
 A retrieval-augmented generation system integrated with Tavily web search and Groq LLM, containerized with Docker.
 
+* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/AMAZON-PRODUCT-RECOMMENDER-CHATBOT)]
+
+
+### 2. **RAG with Web Search Functionality**
+
+The Web-Search AI Assistant is an intelligent, real-time question-answering system designed to provide accurate, up-to-date, and contextually relevant responses. Unlike traditional static language models, this application integrates live web search through Tavily with high-performance AI reasoning using the Groq LLM.
+
+The system is built with:
+
+LangChain for orchestrating LLM and search tools
+Groq AI models for ultra-fast and efficient inference
+Tavily Search API for retrieving real-time web information
+Flask for providing a simple and responsive web interface
+To support reliable and scalable deployment, the application is containerized using Docker and features a Continuous Integration and Deployment (CI/CD) pipeline that automatically pushes the container image to DockerHub upon updates.
+
+This makes the system suitable for production-ready environments, research use, and applications requiring fresh, internet-retrieved knowledge.
+
+
+
 * 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/RAG-with-web_search-functionality)]
 
-### 2. **Explainable Predictive Maintenance Web App**
+### 3. **Predictive Maintenance with MLOPS**
 
 Uses AI4I 2020 dataset, SHAP & LIME for interpretability, deployed via Flask.
 
