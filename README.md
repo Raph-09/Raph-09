@@ -101,7 +101,6 @@ vi. Research & Model Optimization: Studied and implemented machine learning best
 
 # 🚀 Projects
 
-Here are some of the key projects I’ve worked on:
 
 ### 1. **RAG with Web Search Functionality**
 
