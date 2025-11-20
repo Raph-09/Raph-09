@@ -54,77 +54,70 @@ A versatile Data Scientist with three years’ experience analyzing data for ins
 
 ---
 
-# 💼 EXPERIENCE
+# 💼 Experience
 
-## Data Scientist
-
-## BIZSTEK GLOBAL · Full-time
-
-### Oct 2022 - Sep 2025 · 3 yrs
-
-### Lagos State, Nigeria · Remote
+## Data Scientist  
+**BIZSTEK GLOBAL · Full-time**  
+🗓️ Oct 2022 - Sep 2025 · 3 yrs  
+📍 Lagos State, Nigeria · Remote  
 
 ### Key Responsibilities & Contributions:
+1. 🗄️ **Data Collection & Preparation:** Designed and implemented data ingestion and scraping pipelines to gather high-quality datasets from diverse sources.  
+2. 🧹 **Data Cleaning & Feature Engineering:** Preprocessed data, handled missing values, encoded categorical variables, and engineered domain-specific features to enhance model performance.  
+3. 🔍 **Exploratory Data Analysis (EDA):** Conducted in-depth EDA and visualizations using Python (Pandas, Matplotlib, Seaborn) to uncover hidden patterns and actionable insights.  
+4. 🤖 **Model Development & Evaluation:** Experimented with machine learning algorithms (Logistic Regression, Random Forest, XGBoost) to select optimal models using metrics such as accuracy, precision, recall, and F1 score.  
+5. 🚀 **Model Deployment:** Deployed best-performing models into production with Flask, Docker, and Azure, ensuring scalability and smooth integration with business systems.  
+6. 📊 **Performance Monitoring:** Utilized EvidentlyAI to track data drift and model performance, maintaining reliability over time.  
+7. 🤝 **Cross-functional Collaboration:** Partnered with developers and business stakeholders to translate analytical insights into practical solutions aligned with strategic goals.  
 
-1. Data Collection & Preparation: Designed and implemented data ingestion and scraping pipelines to gather high-quality datasets from diverse sources.
-2. Data Cleaning & Feature Engineering:** Performed preprocessing, handling missing data, encoding categorical variables, and engineering domain-specific features to enhance model accuracy.
-3. Exploratory Data Analysis (EDA):  Conducted in-depth EDA and visualization to identify hidden patterns, correlations, and actionable insights using Python (Pandas, Matplotlib, Seaborn).
-4. Model Development & Evaluation:   Experimented with various machine learning algorithms (Logistic Regression, Random Forest, XGBoost, etc.) to select optimal models based on accuracy, precision, recall, and F1 score.
-5. Model Deployment:  Deployed best-performing models into production environments using Flask, Docker, and Azure, ensuring scalability and seamless integration with business systems.
-6. Performance Monitoring:  Applied  EvidentlyAI for monitoring data drift and model performance, maintaining reliability over time.
-7 Cross-functional Collaboration: Worked closely with developers and business stakeholders to translate analytical findings into practical solutions that align with strategic objectives.
+---
 
-
-## Data Science Intern
-
-## iNeuron.ai · Full-time
-
-### May 2021 - Jan 2022 · 9 mos
-
-### India · Remote
+## Data Science Intern  
+**iNeuron.ai · Full-time**  
+🗓️ May 2021 - Jan 2022 · 9 mos  
+📍 India · Remote  
 
 ### Key Responsibilities & Contributions:
-
-1. Part of a team that designed and developed a hyper-personalized recommendation engine for an online store to improve customer engagement and sales conversion rates.
-2. Performed extensive Exploratory Data Analysis (EDA) and data preprocessing, ensuring data consistency and quality across multiple datasets.
-3. Engineered new customer-related features and selected the most impactful variables for model training, significantly boosting performance.
-4. Evaluated different recommender system algorithms, including collaborative and content-based filtering, using libraries such as surprise and scikit-learn.
-5. Implemented simulations to test recommendation strategies under varying user behaviors and dataset dynamics.
-6. Studied and implemented machine learning best practices to fine-tune models, reduce overfitting, and improve recommendation accuracy.
+1. 🌟 **Recommendation Engine Development:** Contributed to building a hyper-personalized recommendation system to boost customer engagement and sales conversion rates.  
+2. 🔍 **Data Exploration & Preprocessing:** Conducted extensive EDA and preprocessing to ensure high-quality, consistent datasets.  
+3. 🧩 **Feature Engineering:** Created new customer-related features and selected impactful variables to significantly improve model performance.  
+4. 🤖 **Algorithm Evaluation:** Tested collaborative and content-based filtering algorithms using libraries like Surprise and Scikit-Learn.  
+5. ⚙️ **Simulation Testing:** Implemented simulations to evaluate recommendation strategies under varying user behaviors and dataset dynamics.  
+6. 📈 **Best Practices Implementation:** Applied ML best practices to fine-tune models, reduce overfitting, and enhance recommendation accuracy.
 
 
 ---
 
 # 🚀 Projects
 
+### 1. **Amazon Product Recommender Chatbot**  
+The **Amazon Chatbot** is an AI-powered e-commerce assistant designed to answer product-related queries using a **Retrieval-Augmented Generation (RAG)** approach. It leverages Amazon product reviews and titles to deliver **contextually relevant, concise, and helpful responses**.  
 
-### 1. **AMAZON PRODUCT RECOMMENDER CHATBOT** <br/>
-The Amazon Chatbot is an AI-powered e-commerce assistant designed to answer product-related queries using a Retrieval-Augmented Generation (RAG) approach. It leverages Amazon product reviews and titles to provide contextually relevant, concise, and helpful responses to user queries.
+The system integrates:  
+- **LangChain** for LLM orchestration  
+- **HuggingFace embeddings** for semantic understanding  
+- **AstraDB vector store** for efficient retrieval  
+- **Groq LLM** for fast inference  
+- **Flask** for a responsive web interface  
 
-The system integrates LangChain, HuggingFace embeddings, AstraDB vector store, and Groq LLM, with a Flask-based web interface. It is containerized with Docker and supports continuous integration/deployment via GitHub Actions and DockerHub.
+It is **containerized with Docker** and supports **CI/CD via GitHub Actions and DockerHub**, ensuring smooth deployment and scalability. Additionally, it incorporates Tavily web search for enhanced retrieval capabilities.  
 
-A retrieval-augmented generation system integrated with Tavily web search and Groq LLM, containerized with Docker.
+* 🔗 Repo: [GitHub Repository](https://github.com/Raph-09/AMAZON-PRODUCT-RECOMMENDER-CHATBOT)  
 
-* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/AMAZON-PRODUCT-RECOMMENDER-CHATBOT)]
+---
 
+### 2. **RAG with Web Search Functionality**  
+The **Web-Search AI Assistant** is an intelligent, real-time question-answering system that delivers **accurate, up-to-date, and contextually relevant responses**. Unlike static models, it combines **live web search** with high-performance AI reasoning.  
 
-### 2. **RAG with Web Search Functionality**
+Key features include:  
+- **LangChain** to orchestrate LLMs and search tools  
+- **Groq AI models** for ultra-fast and efficient inference  
+- **Tavily Search API** for retrieving real-time web information  
+- **Flask** for a simple and interactive web interface  
 
-The Web-Search AI Assistant is an intelligent, real-time question-answering system designed to provide accurate, up-to-date, and contextually relevant responses. Unlike traditional static language models, this application integrates live web search through Tavily with high-performance AI reasoning using the Groq LLM.
+The system is **production-ready**, containerized with **Docker**, and employs a **CI/CD pipeline** to automatically push updates to DockerHub, making it suitable for research, enterprise applications, and scenarios requiring fresh, internet-retrieved knowledge.  
 
-The system is built with:
-
-LangChain for orchestrating LLM and search tools
-Groq AI models for ultra-fast and efficient inference
-Tavily Search API for retrieving real-time web information
-Flask for providing a simple and responsive web interface
-To support reliable and scalable deployment, the application is containerized using Docker and features a Continuous Integration and Deployment (CI/CD) pipeline that automatically pushes the container image to DockerHub upon updates.
-
-This makes the system suitable for production-ready environments, research use, and applications requiring fresh, internet-retrieved knowledge.
-
-
-
-* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/RAG-with-web_search-functionality)]
+* 🔗 Repo: [GitHub Repository](https://github.com/Raph-09/RAG-with-web_search-functionality)
 
 ### 3. **Predictive Maintenance with MLOPS**
 
