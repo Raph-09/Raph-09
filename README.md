@@ -84,7 +84,7 @@ A versatile Data Scientist with three years’ experience analyzing data for ins
 
 ### Key Responsibilities & Contributions:
 
-1.Part of a team that designed and developed a hyper-personalized recommendation engine for an online store to improve customer engagement and sales conversion rates.
+1. Part of a team that designed and developed a hyper-personalized recommendation engine for an online store to improve customer engagement and sales conversion rates.
 
 2. Performed extensive Exploratory Data Analysis (EDA) and data preprocessing, ensuring data consistency and quality across multiple datasets.
 
