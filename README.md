@@ -175,6 +175,22 @@ By building and training a machine learning model on historical transaction data
 
 * 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/FraudNet-Credit-Card-Threat-Detector)]
 
+### 8. **GEMSTONE-IDENTIFICATION-USING-TRANSFER-LEARNING-TECHNIQUES**
+
+This project uses transfer learning techniques to classify seven different types of gemstones. The model is deployed through a Gradio web application, enabling users to upload an image of a gemstone and receive an automated prediction of its type. The system leverages pre-trained convolutional neural networks to extract features and perform accurate classification on the gemstone dataset.
+
+Three models were evaluated for this task. VGG16 achieved a training accuracy of 73% and validation accuracy of 72%, while VGG19 reached 74% training accuracy but slightly lower validation accuracy of 67%. InceptionV3 performed less effectively, with 55% training accuracy and 45% validation accuracy. Overall, the results demonstrate that VGG16 and VGG19 are better suited for gemstone classification, highlighting the value of fine-tuning pre-trained models for domain-specific image recognition tasks.
+
+* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/GEMSTONE-IDENTIFICATION-USING-TRANSFER-LEARNING-TECHNIQUES)]
+
+### 9. **TrendyAI-LLM-Agents-Application**
+
+TrendyAI is an agentic application that leverages artificial intelligence to identify, fetch, and present trending topics within the technology domain. By integrating the CrewAI library and Google Generative AI, the system can autonomously analyze large volumes of data and generate insightful summaries that highlight the most relevant and current trends in tech. The application features a user-friendly web interface built with Streamlit, allowing users to easily interact with the platform.
+
+With TrendyAI, users can input any technology-related topic, and the application will process the request to deliver a concise, well-structured report on the latest developments and emerging trends associated with that topic. This functionality empowers tech enthusiasts, researchers, and professionals to stay up-to-date with rapidly evolving areas in technology, make informed decisions, and discover new opportunities. By combining advanced AI capabilities with an accessible interface, TrendyAI provides a seamless experience for tracking and understanding tech trends efficiently.
+
+* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/TrendyAI-LLM-Agents-Application)]
+  
 # 📚 Research Contributions
 
 * **Adversarial ML for Intrusion Detection:** Designed and implemented adversarial training frameworks using boosting ensembles.
