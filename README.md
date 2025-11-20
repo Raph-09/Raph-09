@@ -153,12 +153,11 @@ The app uses Streamlit for an easy-to-use web interface, while Google Generative
   
 ### 6. **Phishing Websites Monitoring System (with mlops)**
 
-1. Introduction
 The Phishing Websites Monitoring System is an AI-driven application designed to detect and classify phishing websites by leveraging machine learning techniques. The project implements a full ML lifecycle pipeline, covering data ingestion, preprocessing, transformation, model training, evaluation, deployment, and monitoring.
 
 This system enhances network security by identifying potential phishing threats using a robust model training and tracking infrastructure, supported by MongoDB, Flask, Docker, MLflow, and DagsHub.
 
-2. Objectives
+Objectives <br/>
 Automate the process of ingesting and processing phishing-related data.
 Build and validate robust machine learning models for phishing website detection.
 Enable real-time monitoring of model performance.
@@ -167,6 +166,14 @@ Ensure scalability, reproducibility, and traceability using Docker, MLflow, and 
 
 * 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/Phishing-Webites-Monitoring-System-with-MLOps)]
 
+
+### 7. **FraudNet-Credit-Card-Threat-Detector**
+
+This project aims to detect fraudulent credit card transactions using machine learning techniques. Credit card fraud continues to be a major global challenge, impacting financial institutions, merchants, and consumers by causing substantial financial losses and security risks. To address this growing problem, the project leverages data-driven approaches to identify unusual or suspicious transaction patterns that may indicate fraudulent activity.
+
+By building and training a machine learning model on historical transaction data, the system can automatically classify incoming transactions as either legitimate or potentially fraudulent. This automated fraud detection approach not only enhances accuracy and response time but also reduces the burden on manual review processes. Ultimately, the project contributes to strengthening financial security, improving trust in digital payment systems, and minimizing the negative impacts of fraudulent activities on businesses and customers.
+
+* 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/FraudNet-Credit-Card-Threat-Detector)]
 
 # 📚 Research Contributions
 
