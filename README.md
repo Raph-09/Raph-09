@@ -121,7 +121,7 @@ Boosting algorithms infused with adversarial training to combat evasion attacks.
 
 * 🔗 Repo: [[Link to GitHub Repository](https://github.com/Raph-09/dversarial_Machine_learning_Framework_for_Enhancing_the_Robustness_of_IDS_against_Evasion_Attacks./blob/main/Adversarial_Machine_learning_Framework_for_Enhancing_the_Robustness_of_IDS_against_Evasion_Attacks.ipynb)]
 
-### 4. **DRepurposeAI  App using Gemini api**
+### 4. **RepurposeAI  App using Gemini api**
 
 AI-powered content repuposing tool using Google Gemini.
 
