@@ -100,7 +100,7 @@ The system integrates:
 - **Groq LLM** for fast inference  
 - **Flask** for a responsive web interface  
 
-It is **containerized with Docker** and supports **CI/CD via GitHub Actions and DockerHub**, ensuring smooth deployment and scalability. Additionally, it incorporates Tavily web search for enhanced retrieval capabilities.  
+It is **containerized with Docker** and supports **CI/CD via GitHub Actions and DockerHub**, ensuring smooth deployment and scalability. 
 
 * 🔗 Repo: [GitHub Repository](https://github.com/Raph-09/AMAZON-PRODUCT-RECOMMENDER-CHATBOT)  
 
