@@ -40,12 +40,13 @@ A versatile Data Scientist with three years’ experience analyzing data for ins
 - 🤖 **LLM APIs:** Azure OpenAI, Grok, HuggingFace, Gemini API  
 - 🧠 **Embeddings:** HuggingFace & Gemini Embeddings  
 - 📚 **Vector Databases:** Astral Database & FAISS Vector Store  
-- 🔍 **Online Search Tool:** Tavily Search Tool  
+- 🔍 **Online Search Tool:** Tavily Search Tool
+- 🛠️ **Lanchain** (for LLM/RAG application development) 
 - 🛠️ **CrewAI** (for agent development)
+- 🛠️ **N8N** (A No-Code tool for workflow automation)
 
 
 
-----I AM STILL STUDYING THIS
 
 
 
